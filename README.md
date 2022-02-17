@@ -11,6 +11,10 @@ _Required skills_:
   - Hardware modeling in TL-Verilog, VHDL, System-C, and/or [Clash](https://qbaylogic.com/).
   - Java
 
+_Experience_: intermediate/advanced
+
+_Difficulty_: medium
+
 _Duration_: ~350 hrs.
 
 _Mentors_: [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/) ([email](mailto:steve.hoover@redwoodeda.com))
@@ -25,6 +29,10 @@ _Required skills_:
   - UVM
   - TL-Verilog
 
+_Experience_: intermediate/advanced
+
+_Difficulty_: medium
+
 _Duration_: ~175 or ~350 hrs.
 
 _Mentors_: [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/) ([email](mailto:steve.hoover@redwoodeda.com))
@@ -38,6 +46,10 @@ _Required skills_:
   - JavaScript and VIZ
   - CPU microarchitecture
   - SystemVerilog
+
+_Experience_: intermediate
+
+_Difficulty_: beginner/medium
 
 _Duration_: ~350 hrs
 
@@ -55,6 +67,10 @@ This general category of smaller projects improves the ecosystem for TL-Veriog d
   - Improved support for M4 editing in TL-Verilog mode for Code Mirror.
   - GitHub support for TL-Verilog (DONE, but awaiting acceptance)
 
+_Experience_: intermediate
+
+_Difficulty_: medium
+
 _Duration_: ~175 or ~350 hrs.
 
 _Mentors_: [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/) ([email](mailto:steve.hoover@redwoodeda.com))
@@ -62,6 +78,10 @@ _Mentors_: [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/) ([e
 ## TL-Verilog Timing Reports
 
 This project will help designers to relate timing information from synthesis tools back to TL-Verilog's higher-level context (hierarchy, pipelines, and transactions). Scripts are needed to map RTL signal names to their original TL-Verilog names. This will be applied to timing reports from open source synthesis tools so timing information can be reported with respect to TL-Verilog source code.
+
+_Experience_: intermediate
+
+_Duration_: ~175 or ~350 hrs.
 
 _Duration_: ~175 or ~350 hrs.
 
