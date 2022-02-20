@@ -10,9 +10,9 @@ Under [FOSSi](https://www.fossi-foundation.org/), we've been involved in the fol
 
 ### 2021
 
-**Bala Dhinesh**: Created a [Virtual FPGA lab](https://github.com/os-fpga/Virtual-FPGA-Lab) to augment physical FPGA lab classes. Bala subsequently conducted a tutorial session at VSDOpen 2021 using his work, and it has been adopted by the [Open Source FPGA Foundation](https://osfpga.org).
+**Bala Dhinesh**: Created a [Virtual FPGA lab](https://github.com/os-fpga/Virtual-FPGA-Lab) to augment physical FPGA lab classes. Bala subsequently conducted a tutorial session at VSDOpen 2021 using his work, and it has been adopted by the [Open Source FPGA Foundation](https://osfpga.org). Bala's work was awarded honorable mention in [UBooth@DAC](https://www.sigda.org/sigda-events/ubooth/).
 
-**Ninad Jangle**: Explored [block-based circuit](https://github.com/ninja3011/Block_Based_Circuit_Design) design, using [Blockly](https://developers.google.com/blockly) to create point-and-click TL-Verilog modeling. With this proof-of-concept environment, Ninad was able to create a RISC-V CPU core without a text editor!
+**Ninad Jangle**: Explored [block-based circuit](https://github.com/ninja3011/Block_Based_Circuit_Design) design, using [Blockly](https://developers.google.com/blockly) to create point-and-click TL-Verilog modeling. With this proof-of-concept environment, Ninad was able to create a RISC-V CPU core without a text editor! Ninad's work was awarded honorable mention in [UBooth@DAC](https://www.sigda.org/sigda-events/ubooth/).
 
 **Nitin Mishra**: Develop TL-Verilog logic for a [tensor core extension to RISC-V](https://github.com/natu4u/GSOC_TensorCore), described in this [blog](https://medium.com/@nmishra9/tensorcore-extension-for-deep-learning-41728fc22495).
 
