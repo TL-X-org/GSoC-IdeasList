@@ -2,7 +2,42 @@
 
 ## Introduction
 
-TL-X.org is applying as an organization in [Google Summer of Code 2022](https://summerofcode.withgoogle.com/). This would be our first year in the program, though TL-X projects have been a growing part of GSoC for several years under the umbrella of the [Free and Open Source Silicon Foundation (FOSSi)](https://www.fossi-foundation.org/).
+[TL-X.org](https://tl-x.org) is applying as an organization in [Google Summer of Code (GSoC) 2022](https://summerofcode.withgoogle.com/). We invite applicants who are relatively new to the world of open source to get involved in our mission. This would be our first year in GSoC, though TL-X projects have been a growing part of GSoC for several years under the umbrella of the [Free and Open Source Silicon Foundation (FOSSi)](https://www.fossi-foundation.org/). As you can see below, our projects tend to be small-scale, but large impact, and GSoC participants play leading roles in the projects.
+
+## Past Projects
+
+Under [FOSSi](https://www.fossi-foundation.org/), we've been involved in the following projects, resulting in blog posts, papers, presentations, tutorials, and awards, in addition to ground-breaking capabilities and demonstrations.
+
+### 2021
+
+**Bala Dhinesh**: Created a [Virtual FPGA lab](https://github.com/os-fpga/Virtual-FPGA-Lab) to augment physical FPGA lab classes. Bala subsequently conducted a tutorial session at VSDOpen 2021 using his work, and it has been adopted by the [Open Source FPGA Foundation](https://osfpga.org).
+
+**Ninad Jangle**: Explored [block-based circuit](https://github.com/ninja3011/Block_Based_Circuit_Design) design, using [Blockly](https://developers.google.com/blockly) to create point-and-click TL-Verilog modeling. With this proof-of-concept environment, Ninad was able to create a RISC-V CPU core without a text editor!
+
+**Nitin Mishra**: Develop TL-Verilog logic for a [tensor core extension to RISC-V](https://github.com/natu4u/GSOC_TensorCore), described in this [blog](https://medium.com/@nmishra9/tensorcore-extension-for-deep-learning-41728fc22495).
+
+**Vineet Jain**: Worked on a many-core [WARP-V](https://warp-v.org) (TL-Verilog RISC-V) implementation for cloud FPGAs, demonstrating visualization of packet flow and execution of a simple many-core test program.
+
+2021 projects are summarized in this [blog](https://www.linkedin.com/pulse/what-students-up-tl-verilog-gsoc-2021-steve-hoover/), showing how well we all executed to the [plan](https://www.linkedin.com/pulse/another-exciting-summer-tl-verilog-google-code-steve-hoover/).
+
+### 2020
+
+**Shivam Potdar**: Added M-type extensions and long-latency instruction support to [WARP-V](https://warp-v.org), complete with formal verification, and prepared it for Linux boot and many-core integration with [OpenPiton](https://parallel.princeton.edu/openpiton/).
+
+**Vineet Jain**: Added F-type and B-type extensions to [WARP-V](https://warp-v.org), and contributed to network-on-chip development.
+
+### 2019
+
+**Akos Hadnagy**: Extended the [1st CLaaS](https://github.com/os-fpga/1st-CLaaS) framework for hardware acceleration using cloud FPGAs with automated deployment and support for local development with ~100x faster simulation than using Xilinx's tools! His work was featured on the [Google open-source blog](https://opensource.googleblog.com/2019/09/unleashing-open-source-silicon.html).
+
+**Alaa Salman**: Characterized the [WARP-V](https://warp-v.org) core on Xilinx FPGAs; completed a study of synthesis retiming capabilities; and demonstrated the integration of WARP-V (in TL-Verilog) with Rocket (in Chisel).
+
+### 2018
+
+**Akos Hadnagy**: Formally verified [WARP-V](https://warp-v.org), resulting in a [paper](https://arxiv.org/pdf/1811.12474.pdf), a [blog post](https://www.semiwiki.com/forum/content/7850-verifying-risc-v-1-page-code-e.html) on SemiWiki, and presentations at [ORConf](https://youtu.be/fqr4Z9wLNvQ) and VSDOpen highlighting the benefits of TL-Verilog for verification.
+
+**Ahmed Salman**: Extended a library of generic TL-Verilog "flow" components and co-authored a [paper](https://arxiv.org/pdf/1811.01780.pdf) illustrating the long-sought-after feasibility of top-down hardware modeling.
+
 
 ## Application Guidelines
 
