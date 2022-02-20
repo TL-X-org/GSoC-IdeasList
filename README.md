@@ -1,8 +1,63 @@
-_TL-X.org will be applying as an organization in Google Summer of Code 2022. These are some project ideas for contributing in Google Summer of Code to the TL-X initiative to reinvigorate the silicon industry through open source._
+# TL-X.org Google Summer of Code 2022 Project Ideas and Application Process
 
-# Google Summer of Code TL-X.org Ideas List 2022
+## Introduction
 
-## TL-VHDL/TL-C/TL-Clash/etc.
+TL-X.org is applying as an organization in [Google Summer of Code 2022](https://summerofcode.withgoogle.com/). This would be our first year in the program, though TL-X projects have been a growing part of GSoC for several years under the umbrella of the [Free and Open Source Silicon Foundation (FOSSi)](https://www.fossi-foundation.org/).
+
+## Application Guidelines
+
+In your project proposal (application) please follow the general [guidance from GSoC](https://google.github.io/gsocguides/student/writing-a-proposal).
+
+### Before Applying
+
+While we aim to invite new contributors to our community, GSoC tends to be very competitive, and TL-Verilog projects draw very strong interest from the community. While TL-X.org is not a household name, folks who know about us are very excited to be a part of the movement. Some even contribute after being rejected for GSoC. And most former GSoC participants, continue their involvement. It's not often you get an opportunity to disrupt an industry the size of the silicon industry.
+
+The point is, while you are expected to be fairly new to open source, your application must stand out. Demonstrate your passion. Many successful applications have been from applicants we knew about before picking up their applications. They have done their homework. They have ramped up on the technology. They have demonstrated their abilities by completing course assignments or individual projects. They have shared with the community. At the same time, please do not ask uninformed questions just to make yourself known. This will ensure we don't bother reading your application. In addition, we look for bright minds, so if you are a student, you should be doing well in related coursework.
+
+### Application Format
+
+Please submit using `.pdf` format, and include the following information in your application (as suggested by GSoC, with additional information). Format your application to be well organized and easy to read.
+
+#### Name and Contact Information
+
+Putting your full name on the proposal is not enough. Provide full contact information, including email addresses, websites, social links, and telephone number.
+
+#### Title
+
+Your title should be short, clear and interesting. The job of the title is to convince the reviewer to read your synopsis.
+
+#### Synopsis
+
+Start your proposal with a short summary, designed to convince the reviewer to read the rest of the proposal.
+
+#### Benefits to Community
+
+Don’t forget to make your case for a benefit to the organization, not just to yourself. Why would Google and your organization be proud to sponsor this work? How would open source or society as a whole benefit? What cool things would be demonstrated?
+
+#### Deliverables
+
+Include a brief, clear work breakdown structure with milestones and deadlines. Make sure to label deliverables as optional or required. You may want your plan to start by producing some kind of white paper, or planning the project in traditional Software Engineering style. It’s OK to include thinking time (“investigation”) in your work schedule. Deliverables should include investigation, coding and documentation.
+
+#### Related Work
+
+You should understand and communicate other people’s work that may be related to your own. Do your research, and make sure you understand how the project you are proposing fits into the target organization. Be sure to explain how the proposed work is different from similar related work.
+
+#### Biographical Information
+
+Keep your personal info brief. Be sure to communicate personal experiences and skills that might be relevant to the project. Summarize your education, work, and open source experience. List your skills and give evidence of your qualifications. Convince your organization that you can do the work. Any published work, successful open source projects and the like should definitely be mentioned. This section is like a resume, but targeted to your proposal.
+
+### What We Look For
+
+As we review your application we want to see that your application, especially your deliverables and timeline, demonstrate to us that you understand the work involved and its role in the community. We want to see realistic milestones and goals. And you must convince us, in your biography, that you can deliver.
+
+
+## Google Summer of Code TL-X.org Ideas List 2022
+
+Below are some project ideas for contributing in Google Summer of Code to the TL-X initiative to reinvigorate the silicon industry through open source.
+
+You are encouraged to pursue ideas of your own, however, projects below have interested mentors. Before submitting a proposal outside of those listed below, it would be wise to first reach out to a potential mentor.
+ 
+### TL-VHDL/TL-C/TL-Clash/etc.
 
 TL-Verilog is a Verilog implementation of TL-X, and currently, Verilog is the only target language for TL-X. This project would see through the vision of layering transaction-level support in other languages. TL-VHDL would help to broaden the reach of the technology. TL-C would connect transaction-level design with System-C and therefore high-level synthesis. And, TL-Clash would explore the integration of transaction-level modeling with a stronger type system among other language benefits.
 
@@ -20,7 +75,7 @@ _Duration_: ~350 hrs.
 _Mentors_: [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/) ([email](mailto:steve.hoover@redwoodeda.com))
 
 
-## TL-UVM
+### TL-UVM
 
 In theory, TL-X should be applicable to UVM as well as Verilog. Since UVM does not have open-source support, no one has yet tried. But it would be great to uncover issues and put together examples. It looks like Modelsim supports UVM and is freely available for Intel FPGAs. There might be other options.
 
@@ -37,7 +92,7 @@ _Duration_: ~175 or ~350 hrs.
 
 _Mentors_: [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/) ([email](mailto:steve.hoover@redwoodeda.com))
 
-## Visualization of SweRV
+### Visualization of SweRV
 
 The SweRV core is an open-source SystemVerilog RISC-V CPU core developed by Western Digital. It is an interesting core for college course and is being highlighted in the [RVfpga course](https://www.imgtec.com/news/press-release/imagination-announces-the-first-risc-v-computer-architecture-course/) for one. Visualizing the operation of the core can greatly enhance the learning experience. This project aims to do so. SweRV is be built and simulated within Makerchip in [this repo](https://www.imgtec.com/news/press-release/imagination-announces-the-first-risc-v-computer-architecture-course/).
 
@@ -58,7 +113,7 @@ _Discussion_: [TL-Verilog User's Slack workspace](https://join.slack.com/t/tl-ve
 _Mentors_: [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/) ([email](mailto:steve.hoover@redwoodeda.com))
 
 
-## TL-Verilog Editor Modes
+### TL-Verilog Editor Modes
 
 This general category of smaller projects improves the ecosystem for TL-Veriog development by creating editor support for various text editors and IDEs. Many editor modes already exist. A few possibilities include:
 
@@ -75,7 +130,7 @@ _Duration_: ~175 or ~350 hrs.
 
 _Mentors_: [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/) ([email](mailto:steve.hoover@redwoodeda.com))
 
-## TL-Verilog Timing Reports
+### TL-Verilog Timing Reports
 
 This project will help designers to relate timing information from synthesis tools back to TL-Verilog's higher-level context (hierarchy, pipelines, and transactions). Scripts are needed to map RTL signal names to their original TL-Verilog names. This will be applied to timing reports from open source synthesis tools so timing information can be reported with respect to TL-Verilog source code.
 
