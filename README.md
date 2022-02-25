@@ -107,7 +107,7 @@ _Difficulty_: medium
 
 _Duration_: ~350 hrs.
 
-_Mentors_: [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/) ([email](mailto:steve.hoover@redwoodeda.com))
+_Mentors_: Tuyen Truong, [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/) ([email](mailto:steve.hoover@redwoodeda.com))
 
 
 ### TL-UVM
@@ -145,7 +145,7 @@ _Duration_: ~350 hrs
 
 _Discussion_: [TL-Verilog User's Slack workspace](https://join.slack.com/t/tl-verilog-users/shared_invite/zt-4fatipnr-dmDgkbzrCe0ZRLOOVm89gA) `#swerv-viz` channel.
 
-_Mentors_: [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/) ([email](mailto:steve.hoover@redwoodeda.com))
+_Mentors_: TBD from Western Digital/RVFPGA, [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/) ([email](mailto:steve.hoover@redwoodeda.com))
 
 
 ### TL-Verilog Editor Modes
