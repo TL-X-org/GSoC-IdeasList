@@ -163,7 +163,7 @@ _Difficulty_: medium
 
 _Duration_: ~175 or ~350 hrs.
 
-_Mentors_: [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/) ([email](mailto:steve.hoover@redwoodeda.com))
+_Mentors_: [Aliaksei Chapyzhenka](https://www.linkedin.com/in/drom/), [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/) ([email](mailto:steve.hoover@redwoodeda.com))
 
 ### TL-Verilog Timing Reports
 
@@ -175,4 +175,4 @@ _Duration_: ~175 or ~350 hrs.
 
 _Duration_: ~175 or ~350 hrs.
 
-_Mentors_: [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/) ([email](mailto:steve.hoover@redwoodeda.com))
+_Mentors_: Tim Edwards, [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/) ([email](mailto:steve.hoover@redwoodeda.com))
