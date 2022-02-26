@@ -125,7 +125,8 @@ _Difficulty_: medium
 
 _Duration_: ~175 or ~350 hrs.
 
-_Mentors_: [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/) ([email](mailto:steve.hoover@redwoodeda.com))
+_Mentors_: [Prakaash Karthikeyan](https://www.linkedin.com/in/shivaprakaash-karthikeyan-85aab135/)
+
 
 ### Visualization of SweRV
 
