@@ -107,7 +107,7 @@ _Difficulty_: medium
 
 _Duration_: ~350 hrs.
 
-_Mentors_: Tuyen Truong, [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/) ([email](mailto:steve.hoover@redwoodeda.com))
+_Mentors_: [Martin Berger](https://www.linkedin.com/in/martin-berger-2333b11a4/), [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/) ([email](mailto:steve.hoover@redwoodeda.com))
 
 
 ### TL-UVM
