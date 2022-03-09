@@ -1,5 +1,9 @@
 # TL-X.org Google Summer of Code 2022 Project Ideas and Application Process
 
+## Status
+
+[TL-X.org](https://tl-x.org) was not accepted into GSoC for 2022. Not to worry. Any of these projects could still be sponsored by [GSoC under FOSSi's umbrella](https://www.fossi-foundation.org/gsoc22-ideas).
+
 ## Introduction
 
 [TL-X.org](https://tl-x.org) is applying as an organization in [Google Summer of Code (GSoC) 2022](https://summerofcode.withgoogle.com/). We invite applicants who are relatively new to the world of open source to get involved in our mission. This would be our first year in GSoC, though TL-X projects have been a growing part of GSoC for several years under the umbrella of the [Free and Open Source Silicon Foundation (FOSSi)](https://www.fossi-foundation.org/). As you can see below, our projects tend to be small-scale, but large impact, and GSoC participants play leading roles in the projects.
