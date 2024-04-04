@@ -32,7 +32,7 @@ Under [FOSSi](https://www.fossi-foundation.org/), we've been involved in the fol
 
 ### 2019
 
-**Akos Hadnagy**: Extended the [1st CLaaS](https://github.com/os-fpga/1st-CLaaS) framework for hardware acceleration using cloud FPGAs with automated deployment and support for local development with ~100x faster simulation than using Xilinx's tools! His work was featured on the [Google open-source blog](https://opensource.googleblog.com/2019/09/unleashing-open-source-silicon.html).
+**Akos Hadnagy**: Extended the [1st CLaaS](https://github.com/os-fpga/1st-CLaaS) framework for hardware acceleration using cloud FPGAs with automated deployment and support for local development with dramatically faster simulation than full h/w modeling using vendor tools! His work was featured on the [Google open-source blog](https://opensource.googleblog.com/2019/09/unleashing-open-source-silicon.html).
 
 **Alaa Salman**: Characterized the [WARP-V](https://warp-v.org) core on Xilinx FPGAs; completed a study of synthesis retiming capabilities; and demonstrated the integration of WARP-V (in TL-Verilog) with Rocket (in Chisel).
 
